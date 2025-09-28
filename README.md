@@ -1,4 +1,5 @@
-# Securonis-Legal
+# DISCLAIMER-AND-LEGAL-NOTICES
+
 
 Securonis Linux Legal & Disclaimer Documents
 
